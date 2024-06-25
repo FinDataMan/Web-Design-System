@@ -1,0 +1,128 @@
+*{
+    font-family: "Open Sans", sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0 18%;
+}
+
+h1{
+    text-align: center;
+}
+
+section{
+    border: 2px solid dodgerblue;
+    margin-bottom: 10px;
+}
+
+#box-model{
+    padding: 0 5%;
+}
+
+#display{
+    padding: 0 5%;
+}
+
+#colors{
+    padding: 0 5%;
+    padding-bottom: 19.92px;
+}
+
+#styles{
+    padding: 0 5%;
+    padding-bottom: 19.92px;
+}
+
+#typography{
+    padding: 0 5%;
+    padding-bottom: 19.92px;
+}
+
+.tone1{
+    width: 90%;
+    display: inline-block;
+}
+
+.color-panel{
+    display: inline-block;
+    min-height: 100px;
+    width: 19%;
+    text-align: center;
+    margin: 0 6px 19.92px 0;
+}
+
+.color-hex{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 0;
+}
+
+.color-label{
+    font-size: 12px;
+    margin: 50% 0 0 0;
+}
+
+.lapis-lazuli{
+    background-color: #336699;
+}
+
+.carolina-blue{
+    background-color: #86BBD8;
+}
+
+.charcoal{
+    background-color: #2F4858;
+}
+
+.light-green{
+    background-color: #9EE493;
+}
+
+.nyanza{
+    background-color: #DAF7DC;
+}
+
+.font-panel{
+    width: 49%;
+    display: inline-block;
+}
+
+.font-label{
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.roboto{
+    font-family: "Roboto", sans-serif;
+}
+
+.raleway{
+    font-family: "Raleway", sans-serif;
+}
+
+.libre-franklin{
+    font-family: "Libre Franklin", sans-serif;
+}
+
+.inter{
+    font-family: "Inter", sans-serif;
+}
+
+.text-panel{
+    width: 49%;
+    display: inline-block;
+}
+
+.text-panel h1{
+    text-align: left;
+}
